@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Relative Layout</string>
+    <string name="calculator">Calculator</string>
+    <string name="multiply">*</string>
+    <string name="number">Enter YOur Number</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="remainder">%</string>
+</resources>
